@@ -1,8 +1,0 @@
-""""
-Program Menghitung Luas Persegi Panjang
-"""
-
-panjang = float(input("masukkan panjang persegi panjang:"))
-lebar = float(input("masukan lebar persegi  panjang:"))
-luas = panjang * lebar
-print("luas persegi panjanh adalah:", luas)
